@@ -36,5 +36,5 @@ int main(void)
 				n,n % 10);
 		}
 
-		retun (0);
+		return (0);
 }
